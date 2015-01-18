@@ -51,7 +51,7 @@
             System.DayOfWeek.Wednesday,
             System.DayOfWeek.Thursday,
             System.DayOfWeek.Friday});
-            this.c1Calendar1.Location = new System.Drawing.Point(210, 51);
+            this.c1Calendar1.Location = new System.Drawing.Point(649, 51);
             this.c1Calendar1.Name = "c1Calendar1";
             this.c1Calendar1.Size = new System.Drawing.Size(181, 142);
             this.c1Calendar1.TabIndex = 0;
