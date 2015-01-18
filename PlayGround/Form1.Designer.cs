@@ -51,14 +51,14 @@
             System.DayOfWeek.Wednesday,
             System.DayOfWeek.Thursday,
             System.DayOfWeek.Friday});
-            this.c1Calendar1.Location = new System.Drawing.Point(71, 303);
+            this.c1Calendar1.Location = new System.Drawing.Point(-1, 1);
             this.c1Calendar1.Name = "c1Calendar1";
             this.c1Calendar1.Size = new System.Drawing.Size(181, 142);
             this.c1Calendar1.TabIndex = 0;
             // 
             // c1QRCode1
             // 
-            this.c1QRCode1.Location = new System.Drawing.Point(-1, 379);
+            this.c1QRCode1.Location = new System.Drawing.Point(186, 1);
             this.c1QRCode1.Name = "c1QRCode1";
             this.c1QRCode1.Size = new System.Drawing.Size(66, 66);
             this.c1QRCode1.TabIndex = 1;
